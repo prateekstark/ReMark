@@ -11,8 +11,6 @@ import com.example.remark.api.PlayerAPIClient;
 import com.example.remark.model.UserManager;
 import com.example.remark.ui.MainFragment;
 
-import com.example.remark.R;
-
 public class MainActivity extends AppCompatActivity {
     private static String sBluetoothAddress;
 

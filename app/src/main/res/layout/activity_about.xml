@@ -21,7 +21,7 @@
             android:layout_marginTop="8dp"
             android:gravity="center"
             android:padding="10dp"
-            android:text="@string/our_team" />
+            android:text="Team" />
 
         <ImageView
             android:layout_width="match_parent"
@@ -31,82 +31,29 @@
             android:src="@mipmap/ic_launcher" />
 
         <TextView
-            android:layout_width="match_parent"
+            android:layout_width="141dp"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="@string/wang_ruihao"
+            android:text="Prateek Garg"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Rushil Gupta"
             android:textStyle="bold" />
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="106dp"
             android:gravity="center"
-            android:text="@string/chief_architect"
-            android:textStyle="italic" />
-
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="5dp"
-            android:layout_marginTop="5dp"
-            android:src="@mipmap/ic_launcher" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:text="@string/koh_teck_kai"
-            android:textStyle="bold" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:text="@string/game_designer"
-            android:textStyle="italic" />
-
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="5dp"
-            android:layout_marginTop="5dp"
-            android:src="@mipmap/ic_launcher" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:text="@string/milan_ko_k"
-            android:textStyle="bold" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:text="@string/user_management"
+            android:text="Designer"
             android:textStyle="italic" />
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="50dp"
-            android:gravity="center"
-            android:padding="5dp"
-            android:text="@string/special_thanks"
-            android:textStyle="bold" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:autoLink="web"
-            android:gravity="center"
-            android:linksClickable="true"
-            android:text="@string/freepik"
-            android:textStyle="italic" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="66dp"
             android:layout_marginTop="15dp"
             android:gravity="center"
             android:padding="5dp"
@@ -115,11 +62,11 @@
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="121dp"
             android:autoLink="web"
             android:gravity="center"
             android:linksClickable="true"
-            android:text="@string/github_link"
+            android:text="https://github.com/prateekstark/ReMark"
             android:textStyle="italic" />
 
     </LinearLayout>
