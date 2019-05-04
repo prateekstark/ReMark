@@ -1,0 +1,6 @@
+<resources>
+
+    <dimen name="card_view_corner_radius">16dp</dimen>
+    <dimen name="button_rounded_corner">50dp</dimen>
+
+</resources>

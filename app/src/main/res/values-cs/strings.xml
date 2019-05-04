@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="error">Chyba</string>
+    <string name="ok">Ok</string>
+
+    <string name="main_btn_about">O nás</string>
+    <string name="main_btn_account">Můj účet</string>
+    <string name="main_btn_create">Vytvořit hru</string>
+    <string name="main_btn_join">Vstoupit do hry</string>
+    <string name="main_btn_tutorial">Tutoriál</string>
+
+    <string name="bluetooth_is_not_available">Bluetooth není k dispozici</string>
+    <string name="bluetooth_requested">Aplikace vyžaduje Bluetooth</string>
+
+    <string name="player_list">Seznam hráčů</string>
+    <string name="start_game">Začít hru</string>
+    <string name="deck_list">Seznam her</string>
+    <string name="host_list">Seznam hostů</string>
+    <string name="requires_at_least_two_players">Vyžaduje alespoň 2 hráče</string>
+
+    <string name="profile_nickname">Přezdívka</string>
+    <string name="empty_nickname">Jméno nesmí být prázdné</string>
+    <string name="profile_change_picture">Změnit obrázek</string>
+    <string name="start">Začít</string>
+    <string name="register_text">Než začneš hrát, vlož prosím svou přezdívku. Bude možné ji později změnit.</string>
+
+    <string name="quit_game">Ukončit hru</string>
+    <string name="are_you_sure_quit_this_game">Určite chcete hru ukončit?</string>
+    <string name="customize_question">Upravit otázku</string>
+    <string name="enter_question">Vložte otázku</string>
+    <string name="enter_correct_answer">Vložte správnou odpověď</string>
+    <string name="question_and_answer_cannot_be_empty">Vyplňte otázku i odpověď</string>
+    <string name="waiting_question">Čekající otázky</string>
+    <string name="enter_your_answer">Vlož svou odpověď</string>
+    <string name="answer_cannot_be_empty">Vyplňte odpověď</string>
+    <string name="submit">Odeslat</string>
+    <string name="collecting_answer">Příjem odpovědí</string>
+    <string name="players_done">Hotoví hráči</string>
+    <string name="waiting_players">Čekající hráči</string>
+    <string name="next">Další</string>
+    <string name="vote_most_creative_answer">Hlasuj pro nejkreativnější odpověď</string>
+    <string name="leaderboard">Žebříček</string>
+    <string name="next_round">Další kolo</string>
+    <string name="end_game">Konec hry</string>
+
+    <string name="shitake_tutorial">Jak hrát?</string>
+    <string name="tutorial_text">Vybírejte z celé řady kategorií otázek ze skutečného života, kdy se každý hráč snaží vymyslet falešnou odpověď, aby napálil své protihráče.\n\nDokážete vymyslet mazanější odpověď než vaši přátelé? Body dostanete za zvolení správné odpovědi a také pokud nějaký jiný hráče spadne to pasti vaší falešné odpovědi.\n\nNení to prostě ta pravá aplikace v situaci, kdy se zaseknete na letišti nebo jen čekáte až vám donesou objednanou večeři v restauraci? Můžete se jednoduše zabavit s našimi upravovatelnými otázkami a odpověďmi.\n\nTak se připravte, tohle bude dlouhá noc!</string>
+    <string name="back">Zpět</string>
+
+    <string name="our_team">Náš tým</string>
+    <string name="chief_architect">Vedoucí vývojář</string>
+    <string name="game_designer">Herní designér</string>
+    <string name="user_management">Správa uživatelů</string>
+    <string name="special_thanks">Speciální poděkování</string>
+    <string name="github_repository">Repository na Githubu</string>
+
+</resources>

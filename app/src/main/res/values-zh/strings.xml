@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="error">出错</string>
+    <string name="ok">Ok</string>
+
+    <string name="main_btn_account">我的账户</string>
+    <string name="main_btn_join">加入游戏</string>
+    <string name="main_btn_create">创建游戏</string>
+    <string name="main_btn_tutorial">游戏教程</string>
+    <string name="main_btn_about">关于我们</string>
+
+    <string name="bluetooth_is_not_available">蓝牙不可用</string>
+    <string name="bluetooth_requested">需要蓝牙才能玩。</string>
+
+    <string name="start_game">开始游戏</string>
+    <string name="player_list">玩家列表</string>
+    <string name="host_list">主机列表</string>
+    <string name="deck_list">题集列表</string>
+    <string name="requires_at_least_two_players">需要至少两个玩家</string>
+
+    <string name="profile_nickname">昵称</string>
+    <string name="empty_nickname">昵称不能为空</string>
+    <string name="profile_change_picture">更改图片</string>
+    <string name="start">开始</string>
+    <string name="register_text">开始游戏前，请输入您的昵称。以后可以更改它。</string>
+
+    <string name="quit_game">退出游戏</string>
+    <string name="are_you_sure_quit_this_game">你确定退出这次游戏?</string>
+    <string name="customize_question">自定义问题</string>
+    <string name="enter_question">输入问题</string>
+    <string name="enter_correct_answer">输入正确答案</string>
+    <string name="question_and_answer_cannot_be_empty">问题和答案不能为空</string>
+    <string name="waiting_question">等待问题中</string>
+    <string name="enter_your_answer">输入你的答案。</string>
+    <string name="answer_cannot_be_empty">答案不能为空</string>
+    <string name="submit">提交</string>
+    <string name="collecting_answer">收集答案中</string>
+    <string name="players_done">就位的玩家</string>
+    <string name="waiting_players">等待玩家</string>
+    <string name="next">下一步</string>
+    <string name="vote_most_creative_answer">选择最富有创意的答案</string>
+    <string name="leaderboard">排行榜</string>
+    <string name="next_round">下一轮</string>
+    <string name="end_game">结束游戏</string>
+
+    <string name="shitake_tutorial">怎么玩？</string>
+    <string name="tutorial_text">从各种令人兴奋的的生活小知识问题类别中选择一個，然后每个玩家编写假的答案愚弄对方\n\n你能在列表中区分真正的答案和你朋友的假答案的吗？你会得到积分当选择正确的答案或者其他人掉入你的陷阱\n\n这是完美的应用程序，当你滞留在机场候机楼，等待你的晚餐，或甚至在教室里用可定制的问题和答案进行美妙的互动。\n\n所以，与朋友聚在一起，将面对一个漫长的夜晚。</string>
+    <string name="back">后退</string>
+
+    <string name="our_team">我们的团队</string>
+    <string name="special_thanks">特别感谢</string>
+    <string name="chief_architect">首席架构师</string>
+    <string name="game_designer">游戏设计师</string>
+    <string name="user_management">用户管理</string>
+    <string name="github_repository">Github 仓库</string>
+
+</resources>

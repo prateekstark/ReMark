@@ -1,6 +1,66 @@
 <resources>
-    <string name="app_name">ReMark</string>
-    <string name="presents">presents</string>
-    <string name="remark">ReMark</string>
-    <string name="default_web_client_id" />
+
+    <string name="app_name" translatable="false">"Shitake"</string>
+
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+
+    <string name="main_btn_account">My Account</string>
+    <string name="main_btn_join">Join Game</string>
+    <string name="main_btn_create">Create Game</string>
+    <string name="main_btn_tutorial">Tutorial</string>
+    <string name="main_btn_about">About Us</string>
+
+    <string name="bluetooth_is_not_available">Bluetooth is not available</string>
+    <string name="bluetooth_requested">Require Bluetooth to play.</string>
+
+    <string name="start_game">Start Game</string>
+    <string name="player_list">Player List</string>
+    <string name="host_list">Host List</string>
+    <string name="deck_list">Deck List</string>
+    <string name="requires_at_least_two_players">Requires at least two players</string>
+
+    <string name="profile_nickname">Nickname</string>
+    <string name="empty_nickname">Nickname can\'t be empty</string>
+    <string name="profile_change_picture">Change picture</string>
+    <string name="start">Start</string>
+    <string name="register_text">Before playing, type please your nickname. It will be possible to change it later.</string>
+
+    <string name="quit_game">Quit Game</string>
+    <string name="are_you_sure_quit_this_game">Are you sure quit this game?</string>
+    <string name="customize_question">Customize question</string>
+    <string name="enter_question">Enter question</string>
+    <string name="enter_correct_answer">Enter correct answer</string>
+    <string name="waiting_question">Waiting question</string>
+    <string name="enter_your_answer">Enter your answer.</string>
+    <string name="question_and_answer_cannot_be_empty">Question and answer cannot be empty</string>
+    <string name="answer_cannot_be_empty">Answer cannot be empty</string>
+    <string name="submit">Submit</string>
+    <string name="collecting_answer">Collecting Answers</string>
+    <string name="players_done">Players Done</string>
+    <string name="waiting_players">Waiting Players</string>
+    <string name="next">Next</string>
+    <string name="vote_most_creative_answer">Vote most creative answer</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="next_round">Next Round</string>
+    <string name="end_game">End Game</string>
+
+    <string name="shitake_tutorial">How to play?</string>
+    <string name="tutorial_text">Choose from a variety of exciting categories of real life trivia questions in which each player makes up fake answers to fool one another.\n\nCan you differentiate the outrageous real answer among the list of your friends’ fake answers? You will get points for choosing the right one, and any players that fallen into your trap.\n\nIt’s the perfect app when you are stranded at the airport terminal, waiting for your dinner to arrive, or even in the classroom to have wonderful interaction with our customisable questions and answer.\n\nSo gather around mateys, it is going to be a long night ahead of us.</string>
+    <string name="back">Back</string>
+
+    <string name="our_team">Our Team</string>
+
+    <string name="wang_ruihao" translatable="false">Yuki Sora</string>
+    <string name="chief_architect">Chief Architect</string>
+    <string name="koh_teck_kai" translatable="false">Koh Teck Kai</string>
+    <string name="game_designer">Game Designer</string>
+    <string name="milan_ko_k" translatable="false">Milan Košťák</string>
+    <string name="user_management">User Management</string>
+
+    <string name="special_thanks">Special Thanks</string>
+    <string name="freepik" translatable="false">http://freepik.com</string>
+    <string name="github_repository">Github Repository</string>
+    <string name="github_link" translatable="false">https://github.com/YukiSora/shitake</string>
+
 </resources>
