@@ -41,14 +41,12 @@
         android:textSize="36sp" />
 
     <TextView
-        style="@style/Base.TextAppearance.AppCompat.Large"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
-        android:layout_marginBottom="12dp"
+        android:layout_height="60dp"
         android:gravity="center"
-        android:padding="10dp"
-        android:text="Team" />
+        android:text="Designers"
+        android:textSize="20sp"
+        android:textStyle="italic" />
 
     <TextView
         android:layout_width="match_parent"
@@ -57,14 +55,6 @@
         android:text="Prateek Garg                                     Rushil Gupta"
         android:textSize="18sp"
         android:textStyle="bold" />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:text="Designers"
-        android:textSize="14sp"
-        android:textStyle="italic" />
 
     <TextView
         android:id="@+id/textView4"
