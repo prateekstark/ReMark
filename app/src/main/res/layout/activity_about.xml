@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/background3">
+    android:background="@drawable/background2">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -52,8 +52,9 @@
             android:fontFamily="@font/raleway"
             android:text="What to expect?"
             android:textAlignment="center"
+            android:textColor="#474043"
             android:textSize="20sp"
-            android:textStyle="bold" />
+            android:textStyle="bold|italic" />
 
         <TextView
             android:id="@+id/textView4"
@@ -68,8 +69,10 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="60dp"
+            android:fontFamily="@font/raleway_italic"
             android:gravity="center"
             android:text="Designers"
+            android:textColor="#474043"
             android:textSize="20sp"
             android:textStyle="bold|italic" />
 
@@ -77,43 +80,51 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/raleway"
-            android:text="Prateek Garg"
+            android:paddingLeft="30dp"
+            android:text="Prateek Garg                       Rushil Gupta"
             android:textSize="18sp"
             android:textStyle="bold" />
 
-        <ImageView
-            android:id="@+id/imageView"
-            android:layout_width="86dp"
-            android:layout_height="88dp"
-            android:layout_gravity="left"
-            android:layout_weight="1"
-            android:scaleType="fitStart"
-            android:textAlignment="textEnd"
-            app:srcCompat="@drawable/pp1" />
 
-        <TextView
-            android:id="@+id/textView15"
+        <android.support.v7.widget.LinearLayoutCompat
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingLeft="40dp"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            android:paddingRight="40dp"
+            android:paddingBottom="@dimen/activity_vertical_margin">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="86dp"
+                android:layout_height="88dp"
+                android:layout_gravity="left"
+                android:layout_weight="1"
+                android:scaleType="fitStart"
+                android:textAlignment="textEnd"
+                app:srcCompat="@drawable/pp1" />
+
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="49dp"
+                android:layout_height="84dp"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="right"
+                android:scaleType="fitStart"
+                android:verticalScrollbarPosition="defaultPosition"
+                app:srcCompat="@drawable/pp2" />
+
+
+        </android.support.v7.widget.LinearLayoutCompat>
+
 
         <TextView
             android:id="@+id/textView14"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Rushil Gupta"
-            android:fontFamily="@font/raleway"
-            android:textSize="18sp"
-            android:textStyle="bold" />
-
-        <ImageView
-            android:id="@+id/imageView2"
-            android:layout_width="49dp"
-            android:layout_height="84dp"
-            android:layout_weight="1
-"
-            android:scaleType="fitStart"
-            android:verticalScrollbarPosition="defaultPosition"
-            app:srcCompat="@drawable/pp2" />
+            android:layout_height="42dp"
+            android:text="" />
 
         <TextView
             android:layout_width="match_parent"

@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:fillViewport="true"
     android:orientation="vertical"
-    android:background="@drawable/background3">
+    android:background="@drawable/background2">
 
     <LinearLayout
         android:id="@+id/fragment_answer_vg"
