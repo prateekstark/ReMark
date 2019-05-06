@@ -53,10 +53,10 @@
     <TextView
         android:id="@+id/textView4"
         android:layout_width="match_parent"
-        android:layout_height="159dp"
+        android:layout_height="139dp"
         android:text="ReMark aims at improving your social communication by giving you a chance to connect with random strangers giving you an insight of viewpoints other than yours thus helping you shape your notions on various pertinent issues \n\n\n P.S. - You can also test your humour! :D"
         android:textAlignment="center"
-        android:textSize="18sp" />
+        android:textSize="17sp" />
 
     <TextView
         android:layout_width="match_parent"
@@ -99,7 +99,7 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="48dp"
+        android:layout_width="49dp"
         android:layout_height="84dp"
         android:layout_weight="1
 "
