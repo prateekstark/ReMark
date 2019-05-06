@@ -46,7 +46,7 @@
     <string name="end_game">End Game</string>
 
     <string name="shitake_tutorial">How to play?</string>
-    <string name="tutorial_text">Choose from a variety of exciting categories. You will be given some words related to the selected category and each each player has to make up a remark on the word.\n\nCan you differentiate the outrageous remark among the list of your friends’? You will get points if your remark is chosen as the best.\n\nIt’s the perfect app when you are stranded at the airport terminal, waiting for your dinner to arrive, or even in the classroom to have wonderful interaction with our application.\n\nSo gather around mateys, it is going to be a long night ahead of us.</string>
+    <string name="tutorial_text">Choose from a variety of exciting categories. You will be given some words related to the selected category and each player has to make up a remark on the word.\n\nCan you differentiate the outrageous remark amongst the ones by your friends? You will get points if your remark is chosen as the best.\n\nIt’s the perfect app when you are stranded at the airport terminal, waiting for your dinner to arrive, or even in the classroom to have wonderful interaction with your companions.\n\nSo gather around mateys, it is going to be a long night ahead of you.</string>
     <string name="back">Back</string>
 
     <string name="our_team">Our Team</string>
@@ -62,5 +62,8 @@
     <string name="freepik" translatable="false">http://freepik.com</string>
     <string name="github_repository">Github Repository</string>
     <string name="github_link" translatable="false">https://github.com/YukiSora/shitake</string>
+    <string name="expect">ReMark aims at improving your social communication by giving you a chance to connect with random strangers, giving you an insight of viewpoints other than yours, thus helping you shape your notions on various pertinent issues.\nP.S. - You can also test your humour! :D</string>
+    <string name="main_brand_name">Ubinity Games</string>
+    <string name="local_brand_name">ReMark!</string>
 
 </resources>
