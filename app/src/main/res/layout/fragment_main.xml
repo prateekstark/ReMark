@@ -12,7 +12,8 @@
     android:gravity="center_vertical"
     android:isScrollContainer="true"
     android:orientation="vertical"
-    android:scrollbars="horizontal|vertical">
+    android:scrollbars="horizontal|vertical"
+    android:background="@drawable/background3">
 
     <TextView
         android:id="@+id/textView9"

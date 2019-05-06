@@ -6,7 +6,8 @@
     android:layout_marginLeft="20dp"
     android:layout_marginRight="20dp"
     android:layout_marginTop="30dp"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@drawable/background3">
 
     ImageView
         android:layout_width="100dp"
