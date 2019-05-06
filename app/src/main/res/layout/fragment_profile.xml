@@ -8,10 +8,29 @@
     android:orientation="vertical">
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:text="@string/profile_nickname" />
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="29dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:fontFamily="@font/dancing_script"
+        android:text="@string/app_name"
+        android:textAlignment="center"
+        android:textSize="30sp" />
+
+    <ImageView
+        android:id="@+id/iv_profile_picture"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="34dp" />
 
     <EditText
         android:id="@+id/et_profile_nickname"
@@ -21,11 +40,10 @@
         android:hint="@string/profile_nickname"
         android:inputType="textPersonName" />
 
-    <ImageView
-        android:id="@+id/iv_profile_picture"
-        android:layout_width="200dp"
-        android:layout_height="200dp"
-        android:layout_gravity="center" />
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
 
     <com.balysv.materialripple.MaterialRippleLayout
         android:layout_width="match_parent"
@@ -35,12 +53,12 @@
 
         <Button
             android:id="@+id/bt_profile_change_picture"
-            android:background="@drawable/rounded_button_green"
-            android:textColor="@color/white"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="@string/profile_change_picture" />
+            android:background="@drawable/rounded_button_green"
+            android:text="@string/profile_change_picture"
+            android:textColor="@color/white" />
 
     </com.balysv.materialripple.MaterialRippleLayout>
 

@@ -28,4 +28,5 @@ dependencies {
 
     implementation 'com.rengwuxian.materialedittext:library:2.1.4'
     implementation 'com.balysv:material-ripple:1.0.2'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
 }

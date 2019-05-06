@@ -14,7 +14,7 @@
         android:layout_height="match_parent"
         android:layout_gravity="center_vertical"
         android:layout_weight="1"
-        android:src="@mipmap/ic_launcher" />
+        android:src="@drawable/ic_account_circle_black_24dp" />
 
     <TextView
         android:id="@+id/playerName"

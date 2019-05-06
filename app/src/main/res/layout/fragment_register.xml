@@ -8,7 +8,7 @@
     android:layout_marginTop="30dp"
     android:orientation="vertical">
 
-    <ImageView
+    ImageView
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_gravity="center_horizontal"
@@ -16,18 +16,24 @@
         android:src="@drawable/logo" />
 
     <TextView
+        android:id="@+id/textView16"
+        android:layout_width="match_parent"
+        android:layout_height="46dp" />
+
+    <TextView
         style="@style/TextAppearance.AppCompat.Large"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="59dp"
         android:layout_marginBottom="40dp"
+        android:fontFamily="@font/dancing_script"
         android:gravity="center"
         android:text="@string/app_name"
-        android:textAllCaps="true"
-        android:textStyle="bold" />
+        android:textAllCaps="false"
+        android:textSize="30sp" />
 
     <TextView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="84dp"
         android:layout_marginBottom="20dp"
         android:gravity="center"
         android:text="@string/register_text" />
@@ -40,6 +46,11 @@
         android:gravity="center"
         android:hint="@string/profile_nickname"
         android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="42dp" />
 
     <com.balysv.materialripple.MaterialRippleLayout
         android:layout_width="match_parent"

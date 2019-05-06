@@ -1,14 +1,14 @@
 <resources>
 
-    <string name="app_name" translatable="false">"Shitake"</string>
+    <string name="app_name" translatable="false">"ReMark!"</string>
 
     <string name="error">Error</string>
     <string name="ok">OK</string>
 
-    <string name="main_btn_account">My Account</string>
-    <string name="main_btn_join">Join Game</string>
-    <string name="main_btn_create">Create Game</string>
-    <string name="main_btn_tutorial">Tutorial</string>
+    <string name="main_btn_account">Profile</string>
+    <string name="main_btn_join">Join Existing Game</string>
+    <string name="main_btn_create">Create New Game</string>
+    <string name="main_btn_tutorial">How to play?</string>
     <string name="main_btn_about">About Us</string>
 
     <string name="bluetooth_is_not_available">Bluetooth is not available</string>
@@ -20,18 +20,18 @@
     <string name="deck_list">Deck List</string>
     <string name="requires_at_least_two_players">Requires at least two players</string>
 
-    <string name="profile_nickname">Nickname</string>
+    <string name="profile_nickname">Enter your nickname...</string>
     <string name="empty_nickname">Nickname can\'t be empty</string>
     <string name="profile_change_picture">Change picture</string>
     <string name="start">Start</string>
-    <string name="register_text">Before playing, type please your nickname. It will be possible to change it later.</string>
+    <string name="register_text">Please enter the name of your avatar. You will be able to change it later.</string>
 
     <string name="quit_game">Quit Game</string>
     <string name="are_you_sure_quit_this_game">Are you sure quit this game?</string>
     <string name="customize_question">Customize question</string>
     <string name="enter_question">Enter question</string>
     <string name="enter_correct_answer">Enter correct answer</string>
-    <string name="waiting_question">Waiting question</string>
+    <string name="waiting_question">Waiting word</string>
     <string name="enter_your_answer">Enter your answer.</string>
     <string name="question_and_answer_cannot_be_empty">Question and answer cannot be empty</string>
     <string name="answer_cannot_be_empty">Answer cannot be empty</string>
@@ -40,13 +40,13 @@
     <string name="players_done">Players Done</string>
     <string name="waiting_players">Waiting Players</string>
     <string name="next">Next</string>
-    <string name="vote_most_creative_answer">Vote most creative answer</string>
+    <string name="vote_most_creative_answer">Vote the most creative Remark!</string>
     <string name="leaderboard">Leaderboard</string>
     <string name="next_round">Next Round</string>
     <string name="end_game">End Game</string>
 
     <string name="shitake_tutorial">How to play?</string>
-    <string name="tutorial_text">Choose from a variety of exciting categories. You will be given some words related to the selected category and each each player has to make up a "remark" on the word.\n\nCan you differentiate the outrageous remark among the list of your friends’? You will get points if your remark is chosen as the best.\n\nIt’s the perfect app when you are stranded at the airport terminal, waiting for your dinner to arrive, or even in the classroom to have wonderful interaction with our application.\n\nSo gather around mateys, it is going to be a long night ahead of us.</string>
+    <string name="tutorial_text">Choose from a variety of exciting categories. You will be given some words related to the selected category and each each player has to make up a remark on the word.\n\nCan you differentiate the outrageous remark among the list of your friends’? You will get points if your remark is chosen as the best.\n\nIt’s the perfect app when you are stranded at the airport terminal, waiting for your dinner to arrive, or even in the classroom to have wonderful interaction with our application.\n\nSo gather around mateys, it is going to be a long night ahead of us.</string>
     <string name="back">Back</string>
 
     <string name="our_team">Our Team</string>
