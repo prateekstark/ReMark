@@ -24,9 +24,10 @@
 
     <ImageView
         android:id="@+id/iv_profile_picture"
-        android:layout_width="200dp"
-        android:layout_height="200dp"
-        android:layout_gravity="center" />
+        android:layout_width="168dp"
+        android:layout_height="137dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/profilephoto" />
 
     <TextView
         android:id="@+id/textView7"
@@ -58,7 +59,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:background="@drawable/rounded_button_green"
-            android:text="@string/profile_change_picture"
+            android:text="Edit profile!"
             android:textColor="@color/white" />
 
     </com.balysv.materialripple.MaterialRippleLayout>

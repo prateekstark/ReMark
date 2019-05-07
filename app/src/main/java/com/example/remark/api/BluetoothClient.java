@@ -39,7 +39,7 @@ public class BluetoothClient extends Thread {
     }
 
     @Override
-    public void run() {
+    public void run(){
         try {
             server.connect();
 

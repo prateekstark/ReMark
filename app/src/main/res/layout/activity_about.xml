@@ -81,7 +81,7 @@
             android:layout_height="wrap_content"
             android:fontFamily="@font/raleway"
             android:paddingLeft="30dp"
-            android:text="Prateek Garg                       Rushil Gupta"
+            android:text="Prateek Garg                        Rushil Gupta"
             android:textSize="18sp"
             android:textStyle="bold" />
 

@@ -43,7 +43,7 @@ public class PlayerAPIClient {
         if (!picturePath.equals(""))
             picture = BitmapFactory.decodeFile(picturePath);
         else
-            picture = BitmapFactory.decodeResource(resources, R.drawable.no_picture);
+            picture = BitmapFactory.decodeResource(resources, R.drawable.profilephoto);
 
         Player player = new Player(address, name, picture);
         players.put(address, player);

@@ -105,10 +105,10 @@ public class BluetoothServer extends Thread {
         String answer = data.getString("answer");
 
         //set score
-        if (answer.equals("correct"))
+        //if (answer.equals("correct"))
             PlayerAPIClient.getInstance().get(address).addingScore += GameAPIClient.CORRECT_ANSWER_SCORE;
-        else
-            PlayerAPIClient.getInstance().get(answer).addingScore += GameAPIClient.CORRECT_ANSWER_SCORE;
+        //else
+          //  PlayerAPIClient.getInstance().get(answer).addingScore += GameAPIClient.CORRECT_ANSWER_SCORE;
     }
 
     private void vote(JSONObject data, Client thisClient) throws JSONException {

@@ -50,6 +50,7 @@ public class ProfileFragment extends Fragment {
         super.onViewCreated(view, savedInstanceState);
 
         setTextNickname();
+
         setProfilePicture();
 
         mBtChangePicture.setOnClickListener(new View.OnClickListener() {
@@ -85,8 +86,9 @@ public class ProfileFragment extends Fragment {
 
         if (picturePath != null) {
             ivProfilePicture.setImageBitmap(BitmapFactory.decodeFile(picturePath));
-        } else {
-            ivProfilePicture.setImageResource(R.drawable.no_picture);
+        }
+        else {
+            ivProfilePicture.setImageResource(R.drawable.profilephoto);
         }
     }
 
